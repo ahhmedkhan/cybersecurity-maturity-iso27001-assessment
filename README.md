@@ -126,7 +126,23 @@ The highest priority recommendations were:
 [View the Cybersecurity Maturity and ISMS Assessment Workbook](./SkyBridge_Cybersecurity_Maturity_ISMS_Assessment.xlsx)
 
 The workbook contains the assessment dashboard, NIST CSF assessment, ISO 27001 gap assessment, risk register, Statement of Applicability, NIST to ISO mapping and remediation roadmap.
+## Assessment Screenshots
 
+### Executive Dashboard
+
+![Executive Dashboard](./executive-dashboard.png)
+
+### Risk Register
+
+![Risk Register](./risk-register.png)
+
+### NIST CSF 2.0 and ISO/IEC 27001:2022 Crosswalk
+
+![NIST ISO Crosswalk](./nist-iso-crosswalk.png)
+
+### Remediation Roadmap
+
+![Remediation Roadmap](./remediation-roadmap.png)
 ## Skills Demonstrated
 
 * Cybersecurity risk assessment
